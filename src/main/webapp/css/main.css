@@ -79,3 +79,14 @@ hr {
 .input_resize{
     width: 95%;
 }
+
+
+@font-face {
+       font-family: 'Planewalker';
+       src: url('../font/Planewalker.ttf');
+ 
+}
+
+.fuentePersonalizada{
+    font-family: Planewalker;
+}
